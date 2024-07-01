@@ -1,0 +1,184 @@
+department_id,department_name
+1,Product Management
+2,Sales
+3,Research and Development
+4,Business Development
+5,Engineering
+6,Human Resources
+7,Services
+8,Support
+9,Marketing
+10,Training
+11,Legal
+12,Accounting
+13,IT
+14,Customer Service
+15,Finance
+16,Administration
+17,Operations
+18,Quality Assurance
+19,Procurement
+20,Logistics
+21,Warehouse
+22,Production
+23,Maintenance
+24,Technical Support
+25,Public Relations
+26,Event Planning
+27,Project Management
+28,Business Analysis
+29,Product Design
+30,Graphic Design
+31,UX/UI Design
+32,Web Development
+33,Software Development
+34,Mobile Development
+35,Database Administration
+36,Network Administration
+37,Cybersecurity
+38,Data Science
+39,Data Analysis
+40,Artificial Intelligence
+41,Machine Learning
+42,Cloud Computing
+43,DevOps
+44,Systems Architecture
+45,Solutions Architecture
+46,Enterprise Architecture
+47,Business Intelligence
+48,Big Data
+49,Blockchain
+50,Internet of Things (IoT)
+51,Virtual Reality (VR)
+52,Augmented Reality (AR)
+53,Robotics
+54,Automation
+55,Digital Marketing
+56,SEO/SEM
+57,Content Creation
+58,Social Media Management
+59,Influencer Relations
+60,Brand Management
+61,Market Research
+62,Product Marketing
+63,Field Marketing
+64,Channel Marketing
+65,Partner Management
+66,Account Management
+67,Territory Management
+68,Inside Sales
+69,Outside Sales
+70,Sales Engineering
+71,Sales Operations
+72,Sales Training
+73,Sales Enablement
+74,Sales Strategy
+75,Customer Success
+76,Customer Experience
+77,Customer Insights
+78,Customer Advocacy
+79,Customer Retention
+80,Customer Loyalty
+81,Customer Engagement
+82,Customer Feedback
+83,Customer Support Training
+84,Technical Writing
+85,Instructional Design
+86,Learning and Development
+87,Organizational Development
+88,Talent Acquisition
+89,Talent Management
+90,Workforce Planning
+91,Compensation and Benefits
+92,Employee Relations
+93,Diversity and Inclusion
+94,Employee Engagement
+95,Performance Management
+96,HR Analytics
+97,HR Information Systems
+98,Payroll
+99,Benefits Administration
+100,Legal Compliance
+101,Contract Management
+102,Intellectual Property
+103,Litigation
+104,Legal Operations
+105,Paralegal
+106,Corporate Law
+107,Employment Law
+108,Environmental Law
+109,Regulatory Affairs
+110,Tax Law
+111,Compliance
+112,Risk Management
+113,Internal Audit
+114,Financial Planning
+115,Financial Analysis
+116,Treasury
+117,Investor Relations
+118,Budgeting
+119,Forecasting
+120,Cash Management
+121,Cost Accounting
+122,General Ledger
+123,Financial Reporting
+124,Accounts Receivable
+125,Accounts Payable
+126,Credit Management
+127,Collections
+128,Fixed Assets
+129,Tax Planning
+130,Tax Compliance
+131,Auditing
+132,Internal Controls
+133,Ethics and Compliance
+134,Business Continuity
+135,Disaster Recovery
+136,Facilities Management
+137,Security
+138,Environmental Health
+139,Safety
+140,Sustainability
+141,Corporate Social Responsibility
+142,Public Affairs
+143,Community Relations
+144,Philanthropy
+145,Volunteer Management
+146,Event Coordination
+147,Trade Shows
+148,Conferences
+149,Seminars
+150,Workshops
+151,Networking Events
+152,Roadshows
+153,Webinars
+154,Online Training
+155,E-learning
+156,Curriculum Development
+157,Instructional Coaching
+158,Teacher Training
+159,Student Services
+160,Career Services
+161,Admissions
+162,Financial Aid
+163,Academic Advising
+164,Enrollment Management
+165,Alumni Relations
+166,Parent Relations
+167,Fundraising
+168,Development
+169,Grant Writing
+170,Major Gifts
+171,Planned Giving
+172,Annual Fund
+173,Capital Campaigns
+174,Donor Relations
+175,Stewardship
+176,Corporate Partnerships
+177,Foundation Relations
+178,Individual Giving
+179,Membership
+180,Volunteer Recruitment
+181,Volunteer Training
+182,Volunteer Coordination
+183,Board Relations
